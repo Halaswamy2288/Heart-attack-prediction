@@ -1,0 +1,18 @@
+.page-header{
+	position: fixed;
+	height: 100px;
+	width: 100%;
+	left: 0px;
+	right: 0px;
+	background-color: #efefe8ff;
+	z-index: 100;
+}
+.head{
+	color: #C70039;
+}
+.page-nav{
+	float: right;
+}
+.page-nav a{
+	color: black;
+}
